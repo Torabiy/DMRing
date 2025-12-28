@@ -12,7 +12,7 @@
 
 Glucose detection is crucial for the diagnosis of diabetes. Microring resonator biosensors detect small refractive index changes. We utilize artificial intelligence (AI) diffusion models for the inverse design of sensor geometries that are consistent with target spectral responses, offering potential for the development of intelligent photonic biosensors.
 
-<img src="fig1.png" alt="Ring resonator biosensor" width="400"/>
+<img src="fig1.png" alt="Ring resonator biosensor" width="400"/> <img src="fig2.png" alt="Inverse design of the sensor using diffusion models" height="193"/>
 
 ---
 
