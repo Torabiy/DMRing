@@ -1,4 +1,4 @@
-# 🚨 **New Update: Accepted at <i>IEEE Silicon Photonics Conference (SiPhotonics) 2026</i>!** 🚨
+# 🚨 **Accepted at <i>IEEE Silicon Photonics Conference (SiPhotonics) 2026</i>!** 🚨
 # Inverse Design of Microring Resonator-Based Glucose Biosensor Using AI Diffusion Models
 
 ---
@@ -13,13 +13,6 @@
 Glucose detection is crucial for the diagnosis of diabetes. Microring resonator biosensors detect small refractive index changes. We utilize artificial intelligence (AI) diffusion models for the inverse design of sensor geometries that are consistent with target spectral responses, offering potential for the development of intelligent photonic biosensors.
 
 <img src="fig1.png" alt="Ring resonator biosensor" width="400"/>
-
----
-
-## Keywords
-
-Silicon photonics; microring resonator; glucose biosensor; inverse design; diffusion models; AI for photonics
-
 
 ---
 
